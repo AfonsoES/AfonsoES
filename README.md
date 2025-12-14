@@ -42,8 +42,11 @@
 ---
 
 ## 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AfonsoES&show_icons=true&theme=aura" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoES&layout=compact&theme=aura" width="45%" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AfonsoES\&show_icons=true\&theme=aura)
 
 ---
 
