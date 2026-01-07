@@ -37,6 +37,7 @@
 
 <!-- 🎮 **Projeto Roblox (Lua)** – [Ver repositório](https://github.com/AfonsoES/NOME_DO_REPOSITORIO) -->
 - ⚙️ **Estudo de C++** – [Ver repositório](https://github.com/AfonsoES/Curso_Programacao)
+- 🔪 **Jogo Backstabber** – [Ver repositório](https://github.com/AfonsoES/Backstabber)
 
 
 ---
