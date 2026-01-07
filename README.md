@@ -44,9 +44,13 @@
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfonsoES&show_icons=true&theme=aura" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoES&layout=compact&theme=aura" width="45%" />
+  <img src="https://stats-github-readme-stats.vercel.app/api?username=AfonsoES&amp;show_icons=true&amp;theme=tokyonight" width="45%" />
+  <img src="https://stats-github-readme-stats.vercel.app/api/top-langs/?username=AfonsoES&amp;layout=compact&amp;theme=tokyonight" width="45%" />
 </p>
+
+
+
+
 
 
 ---
