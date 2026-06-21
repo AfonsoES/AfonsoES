@@ -12,9 +12,8 @@
 
 ## 📁 Projetos em Destaque
 
-<!-- 🎮 **Projeto Roblox (Lua)** – [Ver repositório](https://github.com/AfonsoES/NOME_DO_REPOSITORIO) -->
 - ⚙️ **Programmable** – [Entrar no site](https://afonsoes.github.io/Programmable_Site/)
-- 
+
 ---
 
 ## 🛠️ Linguagens & Ferramentas
