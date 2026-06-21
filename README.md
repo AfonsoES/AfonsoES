@@ -10,6 +10,13 @@
 
 ---
 
+## 📁 Projetos em Destaque
+
+<!-- 🎮 **Projeto Roblox (Lua)** – [Ver repositório](https://github.com/AfonsoES/NOME_DO_REPOSITORIO) -->
+- ⚙️ **Programmable** – [Entrar no site](https://afonsoes.github.io/Programmable_Site/)
+- 
+---
+
 ## 🛠️ Linguagens & Ferramentas
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
