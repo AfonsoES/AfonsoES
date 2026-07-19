@@ -6,8 +6,6 @@
 
 🎓 Estudo programação, gosto de tecnologia e desenvolvimento de jogos.
 
-🎮 Atualmente estou a aprender **Lua no Roblox Studio** e **C++**.
-
 ---
 
 ## 📁 Projetos em Destaque
@@ -26,7 +24,6 @@
 ## 📚 O que estou a aprender
 
 * ⚙️ Fundamentos de **C++**
-* 🎮 Desenvolvimento de jogos no **Roblox Studio** com **Lua**
 
 ---
 
@@ -41,7 +38,6 @@
 ## 📁 Repositórios em Destaque
 
 - ⚙️ **Estudo de C++** – [Ver repositório](https://github.com/AfonsoES/Curso_Programacao)
-
 
 ---
 
