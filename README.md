@@ -20,7 +20,6 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge\&logo=roblox\&logoColor=white)
 
 ---
 
@@ -41,9 +40,7 @@
 
 ## 📁 Repositórios em Destaque
 
-<!-- 🎮 **Projeto Roblox (Lua)** – [Ver repositório](https://github.com/AfonsoES/NOME_DO_REPOSITORIO) -->
 - ⚙️ **Estudo de C++** – [Ver repositório](https://github.com/AfonsoES/Curso_Programacao)
-- 🔪 **Jogo Backstabber** – [Ver repositório](https://github.com/AfonsoES/Backstabber)
 
 
 ---
