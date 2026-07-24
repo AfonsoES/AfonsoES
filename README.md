@@ -1,43 +1,35 @@
 
 <img src="https://github.com/user-attachments/assets/f605d22e-d283-4573-a3f7-02a9c62eb41a" width="1500"><br />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=1500&lines=Bem-vindo%2Fa;Welcome)](https://git.io/typing-svg)
-
-👋 Olá! Eu sou o Afonso
-
-🎓 Estudo programação, gosto de tecnologia e desenvolvimento de jogos.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo+Black&size=50&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=1500&lines=Welcome)](https://git.io/typing-svg)
 
 ---
 
-## 📁 Projetos em Destaque
+## 📁 Featured Projects
 
-- ⚙️ **Programmable** – [Entrar no site](https://afonsoes.github.io/Programmable_Site/)
-
----
-
-## 🛠️ Linguagens & Ferramentas
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
+- ⚙️ **Programmable** – [Visit the site](https://afonsoes.github.io/Programmable_Site/)
 
 ---
 
-## 📚 O que estou a aprender
+## 🛠️ Languages & Tools
 
-* ⚙️ Fundamentos de **C++**
-
----
-
-## 🎯 Objetivos
-
-* 🚀 Evoluir como programador
-* 🕹️ Criar jogos e sistemas interativos
-* 📦 Desenvolver projetos pessoais
+[![Languages](https://skillicons.dev/icons?i=cpp,cs,lua,&theme=dark)](https://skillicons.dev)
+<br>
+[![Tools](https://skillicons.dev/icons?i=vscode,unity,robloxstudio,&theme=dark)](https://skillicons.dev)
 
 ---
 
-## 📁 Repositórios em Destaque
+## 📚 Learning
 
-- ⚙️ **Estudo de C++** – [Ver repositório](https://github.com/AfonsoES/Curso_Programacao)
+* **C++**
+* **Game Development**
+
+---
+
+## 🎯 Goals
+
+*  Grow as a programmer
+*  Create games and interactive systems
+*  Develop personal projects
 
 ---
 
