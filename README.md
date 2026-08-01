@@ -7,7 +7,7 @@
 ## 📁 Featured Projects
 
 - ⚙️ **Programmable** – [Visit the site](https://afonsoes.github.io/Programmable_Site/)
-- **C Gradient Generator** - [Visit the Repo](https://github.com/AfonsoES/C-Gradient-Generator)
+- 🟦 **C Gradient Generator** - [Visit the Repo](https://github.com/AfonsoES/C-Gradient-Generator)
 ---
 
 ## 🛠️ Languages & Tools
